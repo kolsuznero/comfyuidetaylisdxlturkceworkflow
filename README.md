@@ -1,2 +1,2 @@
-# comfyuidetaylisdxlturkceworkflow
-ComfyUI Kullananlar İçin Detaylı Bir text2img Workflow
+# ComfyUI Detaylı SDXL Türkce Workflow
+ComfyUI Kullananlar İçin Detaylı Bir Türkçe text2img Workflow
